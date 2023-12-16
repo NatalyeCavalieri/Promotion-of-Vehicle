@@ -1,4 +1,3 @@
-// create a program to a resale of the cars. The program should read the model and price of the car. Display the input value as the response (50%) and the balance in 12 times.
 
 const form = document.querySelector("form")
 const respVehicle = document.querySelector("#outResp1")
